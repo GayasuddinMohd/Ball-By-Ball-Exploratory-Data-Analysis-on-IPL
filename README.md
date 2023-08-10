@@ -7,7 +7,7 @@ The Indian Premier League (IPL) is an Indian professional Twenty20 (T20) cricket
 The "Ball-By-Ball Exploratory Data Analysis on IPL" involves an intricate examination of the Indian Premier League (IPL) dataset on a granular level, focusing on individual ball-by-ball interactions throughout matches. This detailed analysis provides insights into the micro-dynamics of the game, uncovering trends, player strategies, and critical moments.
 
 # Repository Overview
-This repository is about EDA performed on each and every ball of Indian Premier League Data.
+This repository is about EDA performed on each and every ball of Indian Premier League Data from 2008 to 2020.
    - It has a python notebook where all the coding has been done.
    - It also has the relevant datasets and files used for this analysis.
 
