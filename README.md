@@ -45,7 +45,7 @@ This repository is about EDA performed on each and every ball of Indian Premier 
 
 # Dataset
 * You can download the dataset from the kaggle website.
-* https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=IPL+Matches+2008-2020.csv
+* https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=IPL+Ball-by-Ball+2008-2020.csv
 
 
 
