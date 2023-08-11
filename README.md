@@ -32,7 +32,7 @@ This repository is about EDA performed on each and every ball of Indian Premier 
 * A Nehra is the most expensive bowler from the srh side.
 * Rashid khan, B Kumar, A Nehra are the top wicket takers in the match 1, and they all are from the srh team.
 
-# Skills  
+# Technologies Used
 * Python
 * Numpy
 * Pandas
