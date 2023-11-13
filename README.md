@@ -3,7 +3,7 @@
 # IPL Cricket Match Analysis : In-Depth Exploration of Ball-by-Ball Data
 It involves an intricate examination of the Indian Premier League (IPL) data on a granular level, focusing on individual ball-by-ball interactions throughout matches. This detailed analysis provides insights into the micro-dynamics of the game, uncovering trends, player strategies, and critical moments.
 
-# Technologies Used  
+# Skills
 * Python
 
 # Dataset  
