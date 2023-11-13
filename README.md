@@ -9,7 +9,7 @@ It involves an intricate examination of the Indian Premier League (IPL) data on 
 # Dataset  
 * Download the dataset from [Kaggle](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=IPL+Ball-by-Ball+2008-2020.csv).
 
-# 
+# Insights
 * Total number of matches is 11415.
 * Yuvraj Singh scored most runs from the srh side in the match 1 against rcb.
 * Most of the batsman from the srh side got caught out.
@@ -22,22 +22,3 @@ It involves an intricate examination of the Indian Premier League (IPL) data on 
 * A Choudhary is the most expensive bowler from the rcb side.
 * A Nehra is the most expensive bowler from the srh side.
 * Rashid khan, B Kumar, A Nehra are the top wicket takers in the match 1, and they all are from the srh team.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
